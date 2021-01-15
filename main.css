@@ -1,0 +1,97 @@
+body,
+html {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+p {
+    font-size: 18px;
+}
+
+.cover-img {
+    padding-top: 50px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+}
+
+
+
+.nav-color {
+    background-color: rgb(49, 45, 83);
+}
+
+nav a {
+    font-size: 16px;
+    text-decoration: none;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: white;
+}
+
+.jumbotron {
+    margin-top: 20px;
+}
+
+
+/* 
+li {
+    background-color: white;
+} */
+
+.maps {
+    padding-bottom: 100px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+footer {
+    background-color: rgb(49, 45, 83);
+}
+
+.p-footer {
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+.panel-color {
+    background-color: black;
+}
+
+.div-check {
+    height: 330px;
+    /* width: auto; */
+    background-color: rgb(49, 45, 83);
+    margin-top: 30px;
+
+}
+
+.div-check h1 {
+    text-align: center;
+    color: white;
+    padding-top: auto;
+    font-weight: 100;
+
+}
+
+.div-check p {
+    color: white;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.btn-learn-more {
+    text-align: center;
+    color: white;
+    margin-top: auto;
+
+}
+
+.inside-div-check {
+    padding: 10px;
+}
